@@ -1,5 +1,5 @@
 public class Promocion implements Estado{
-    float valor=0;
+    double valor=0;
     public void setValor(float valor) {
         this.valor = valor;
     }
